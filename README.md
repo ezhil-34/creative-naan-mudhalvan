@@ -87,8 +87,7 @@
 
         Currently supports English (en) & Spanish (es)
 
-**Dynamic Questions
-**
+**Dynamic Questions:**
 
        Based on your previous answer it will automatically generate next question
 
